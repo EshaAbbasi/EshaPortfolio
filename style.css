@@ -387,7 +387,7 @@ ul.list li::before {
   border-bottom: 1px dashed;
 }
 
-/ 3D keyboard / .kb-scene {
+.kb-scene {
   position: relative;
   max-width: 780px;
   margin: clamp(-6px, -1vw, 0px) auto 0;

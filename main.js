@@ -1,7 +1,6 @@
 (function () {
   "use strict";
 
-  /* ---------- EDIT YOUR CONTACT LINKS HERE ---------- */
   var contact = {
     email: "esha.ashfar@example.com",
     linkedin: "https://www.linkedin.com/in/esha-ashfar",
@@ -41,7 +40,7 @@
       "graduation",
       "Product-safety assistant checking products against a health profile. Allergens detected in 98% of test samples, results under 5s.",
       "Laravel · PHP · Groq API",
-      "",
+      "basira.it.com",
     ],
     [
       "Tatawwu'",
